@@ -43,7 +43,7 @@
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
     "account": {
-      "details": "CObv5dgCEKzt5JUGGA4=",
+      "details": "CObv5dgCEKzt5JUGGA4=
       "accountSignatureKey": "TUYyuKfVcfkdSeY07wfZZWFU36y7NQfuG2wB6dXQIzQ=",
       "accountSignature": "HdpfMAWqk3/EOXk6C2Id56OVAJerK248QlulXrce/6MEBC3P3CYJw5Gy8D8Vi40ONnNnhxf15TGqBeHC+eKkDA==",
       "deviceSignature": "H1YdILSeuH+kHrBg/sm9aCJ3t0fHKWXR1wmeARQfa5KBfoH2jYa4HYLcVhZM6lF6feXlVUPROby9TlOsV7B2DA=="
@@ -486,7 +486,7 @@
         },
         "timestamp": "1655014139784"
       },
-      "AAAAALnX": {
+      "AAAAALnX": 
         "keyData": "8qhbeGqkZj0MC4Q/rHbFeuLinf8jtDGXkzrUke0LCzo=",
         "fingerprint": {
           "rawId": 723089382,
