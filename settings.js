@@ -20,15 +20,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is ꧁✰ₛͥₑͣₓ⃪ͫॐ⃞🍁𝚜𝚊𝚍𝚒𝚢𝚊꧂🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94756943099'] //Owner number in aive msg
+global.premium = ['+94756943099'] //Owner Number info
+global.ownernomer = '+94756943099' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '꧁✰ₛͥₑͣₓ⃪ͫॐ⃞🍁𝚜𝚊𝚍𝚒𝚢𝚊꧂' //Owner Name
+global.botname = ' ꧁✰ₛͥₑͣₓ⃪ͫॐ⃞🍁𝚜𝚊𝚍𝚒𝚢𝚊꧂' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
